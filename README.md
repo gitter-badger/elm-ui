@@ -2,6 +2,8 @@
 
 ------------------------
 
+[![Join the chat at https://gitter.im/elm_ui/Lobby](https://badges.gitter.im/elm_ui/Lobby.svg)](https://gitter.im/elm_ui/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # Elm UI
 An opinionated **UI library** and **application framework** for the web in *Elm*,
 following the **Elm Architecture**.
